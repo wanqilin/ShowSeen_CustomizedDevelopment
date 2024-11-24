@@ -1,3 +1,5 @@
+author: www.showseen.com
+
 # Quectel FCS940R Wifi Driver Porting
 
 ## 一、Development environment
